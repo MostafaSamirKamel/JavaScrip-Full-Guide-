@@ -486,7 +486,7 @@ Object.freeze(person);     // prevent modifications
 ```
 ---
 
-```
+
 ## made by Eng* Mostafa_Samir ;
-```
+
 
