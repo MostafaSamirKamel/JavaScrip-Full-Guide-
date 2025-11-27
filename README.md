@@ -1,7 +1,3 @@
-# JavaScrip Full Guide
-
-
-
 # Basic JavaScript Concepts
 
 ## 1.1 What is JavaScript & what we can do with it
