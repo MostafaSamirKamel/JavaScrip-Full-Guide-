@@ -1,4 +1,4 @@
-# JavaScrip-Full-Guide-
+# JavaScrip Full Guide
 
 
 
@@ -24,7 +24,7 @@ JavaScript (JS) is a high-level, interpreted programming language primarily used
 **Example:**  
 ```javascript
 console.log("Hello, JavaScript!");
-
+```
 
 ---
 
