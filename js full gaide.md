@@ -1,7 +1,5 @@
-# JavaScrip Full Guide
 
-
-
+````markdown
 # Basic JavaScript Concepts
 
 ## 1.1 What is JavaScript & what we can do with it
@@ -24,7 +22,7 @@ JavaScript (JS) is a high-level, interpreted programming language primarily used
 **Example:**  
 ```javascript
 console.log("Hello, JavaScript!");
-```
+````
 
 ---
 
@@ -484,9 +482,7 @@ map.get("name"); // Ali
 Object.assign({}, person); // copy
 Object.freeze(person);     // prevent modifications
 ```
----
 
-
-## Made by Eng* Mostafa_Samir ;
-
-
+```
+## made by Eng* Mostafa_Samir ;
+```
