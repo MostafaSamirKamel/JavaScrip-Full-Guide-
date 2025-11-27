@@ -484,6 +484,7 @@ map.get("name"); // Ali
 Object.assign({}, person); // copy
 Object.freeze(person);     // prevent modifications
 ```
+---
 
 ```
 ## made by Eng* Mostafa_Samir ;
